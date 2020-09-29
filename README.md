@@ -1,5 +1,5 @@
 # HelloWorld
-first repository
+First repository
 
 
 hi this is enola and sherlock
